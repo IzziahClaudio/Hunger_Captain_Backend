@@ -1,0 +1,10 @@
+python
+django 
+djangorestframework
+django-filter
+django-cors-headers
+dj-database-url
+cloudinary
+pillow
+urllib3
+whitenoise
